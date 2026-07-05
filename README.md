@@ -2,19 +2,16 @@
 
 I'm a student interested in computer science 👨‍💻
 
-Currently, I'm focusing on Data Strucutres and Algorithms and Competitive Programming through C++ 🧩⚡
+Currently, I'm focusing on Data Structures and Algorithms and Competitive Programming using C++ 🧩⚡
 
-<!--
-**eriicye/eriicye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages:
+- Python
+- Java
+- C++
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+- I love books📖
+- I play football⚽
+- I enjoy chess ♟️
+- I used to play the trumpet 🎺
+- My favourite programming language is C++ 💻

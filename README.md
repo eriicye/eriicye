@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey, I'm Eric👋
+
+I'm a high school student interested in computer science
+
+Currently, I'm focusing on learning Data Strucutres and Algorithms and Competitive Programming through C++.
 
 <!--
 **eriicye/eriicye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,10 @@
 ## Hey, I'm Eric👋
 
-I'm a student interested in computer science 👨‍💻
+I'm a high school student interested in computer science 👨‍💻
 
 Currently, I'm focusing on Data Structures and Algorithms and Competitive Programming using C++ 🧩⚡
+
+I hope to pursue Machine Learning 🤖
 
 ### Programming Languages:
 - Python

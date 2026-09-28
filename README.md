@@ -13,5 +13,5 @@ I hope to pursue Machine Learning 🤖
 - I love books📖
 - I play football⚽
 - I enjoy chess ♟️
-- I used to play the trumpet 🎺
+- I can play the trumpet 🎺
 - My favourite programming language is C++ 💻
